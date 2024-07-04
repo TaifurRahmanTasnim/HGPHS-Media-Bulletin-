@@ -9,7 +9,8 @@
         <li>
             <h2>Class Schedule (9) </h2>
        <a href="https://ibb.co/mFVs5V6"><img src="https://i.ibb.co/rfRP2R4/Screenshot-20240704-204945-1.png" alt="Screenshot-20240704-204945-1" border="0"></a>
-        </li>
+ <b> <a href="https://ibb.co/6yPvV2c"><img src="https://i.ibb.co/3TNfGw5/Screenshot-20240704-214048-1.png" alt="Screenshot-20240704-214048-1" border="0"></a></b>      
+ </li>
         <li>
           <h2>Gallery</h2>
             <p>  <a href="https://ibb.co/6XXxNKK"><img src="https://i.ibb.co/bbbZ744/Screenshot-20240704-214455-1.png" alt="Screenshot-20240704-214455-1" border="0"></a></p>
