@@ -12,7 +12,7 @@
         </li>
         <li>
           <h2>Gallery</h2>
-            <p>ছবি</p>
+            <p> https://upload.wikimedia.org/wikipedia/commons/b/b8/Haripur_Pilot_high_school_%282%29.jpg </p>
         </li>
         <li>
  <h2> Teachers info </h2>
