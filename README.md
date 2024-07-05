@@ -32,6 +32,5 @@
 Call:017185310562
 <h4>Copyrights and terms</h4>
 <li> @hgphs-media-bulletin/copyright </li>
-
 </body>
 </html>
