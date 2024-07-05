@@ -22,5 +22,6 @@
 
 2.Md.Habibur Rahman(Assist.head teacher) </p>
         </li>
+<h2>Contact us</h2>
 </body>
 </html>
