@@ -20,7 +20,9 @@
  <h2> Teachers info </h2>
             <p> 1.Md.Jamaluddin (Head teacher)
 
-2.Md.Habibur Rahman(Assist.head teacher) </p>
+2.Md.Habibur Rahman(Assist.head teacher)  
+3.More...
+</p>
         </li>
 <h2>Contact us</h2>
 <a>Email:s128772@hotmail.com
