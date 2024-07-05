@@ -25,6 +25,6 @@
 <h2>Contact us</h2>
 <a>Email:s128772@hotmail.com
 
-Call : 017185310562
+Call:017185310562
 </body>
 </html>
