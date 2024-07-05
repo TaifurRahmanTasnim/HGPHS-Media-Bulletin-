@@ -4,8 +4,10 @@
 <body>
  <h2>Haripur Government Pilot High School Media Bulletin </h1>
       <a href="https://ibb.co/YbfcJ1r"><img src="https://i.ibb.co/3kSpVjJ/1720089635348.jpg" alt="1720089635348" border="0"></a> 
-        <li>
-  <h2>Class Schedule (9) </h2>
+<h2>School overview </h2> 
+<li> Haripur Government Pilot High School school is a reputed school located in the heart of Haripur upazilla,Thakurgaon. Established in 1936,the school has a rich history of providing quality education and fostering a friendly learning environment. The school is famous in the area for it's academic excellence as well as co-curricular and extra-curricular achievements.
+<li>
+<h2>Class Schedule (9) </h2>
        <a href="https://ibb.co/mFVs5V6"><img src="https://i.ibb.co/rfRP2R4/Screenshot-20240704-204945-1.png" alt="Screenshot-20240704-204945-1" border="0"></a>
      
  </li>
