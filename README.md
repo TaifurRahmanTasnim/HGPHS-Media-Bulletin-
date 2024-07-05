@@ -23,7 +23,7 @@
 2.Md.Habibur Rahman(Assist.head teacher) </p>
         </li>
 <h2>Contact us</h2>
-<a>E-mail : s128772@hotmail.com
+<a>Email:s128772@hotmail.com
 
 Call : 017185310562
 </body>
